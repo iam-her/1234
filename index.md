@@ -1,7 +1,4 @@
-## Team 1234
-** PDX/ ECE411 ** 
-
-A group of student collolaborating to make engineer something for a FUN class known as ECE 411 at Home for Portland State University.
+## PDX/ ECE411 
 
 ### Member
 
